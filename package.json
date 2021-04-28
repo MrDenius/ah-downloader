@@ -1,0 +1,19 @@
+{
+	"name": "ah-downloader",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "node src/app.js --debug"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.21.1",
+		"cli": "^1.0.1",
+		"dotenv": "^8.2.0",
+		"jsdom": "^16.5.3",
+		"terminal-kit": "^2.0.7"
+	}
+}
